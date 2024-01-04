@@ -62,7 +62,7 @@ const clickCheck = () => {
 
   //guess is now correct !!!
   else if (guess === secretNum) {
-    displayMessage('Correct number 🥳🍾');
+    displayMessage('Correct number 🥳🍾 !!');
     updateHighScore();
     displayHighscore();
     document.querySelector('body').style.backgroundColor = '#008000';
