@@ -1,6 +1,6 @@
 'use strict';
 
-//print out the class that said message;
+//print out the class that said message; toing
 // console.log(document.querySelector('.message').textContent);
 
 // displayMessage('Correct number 🥳🍾');
