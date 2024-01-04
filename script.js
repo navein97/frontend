@@ -60,7 +60,7 @@ const clickCheck = () => {
     displayMessage('🤚🏾 No number');
   }
 
-  //guess is correcct !
+  //guess is correct !
   else if (guess === secretNum) {
     displayMessage('Correct number 🥳🍾');
     updateHighScore();
